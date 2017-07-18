@@ -1,0 +1,16 @@
+html{
+    width:200px;
+}
+body{
+    width: 200px;
+}
+button{
+    background-color: #555555;
+    border: none;
+    color: white;
+    padding:  5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
